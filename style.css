@@ -1,0 +1,25 @@
+body, html {
+    height: 100%;
+    grid-template-columns: 1fr 1.5fr 1.5fr 1fr;
+    grid-template-rows: repeat(5, 1fr);
+}
+
+body {
+    display: grid;
+}
+
+#sidebar {
+    grid-area: 1/1 / 6/2;
+}
+
+#header {
+    grid-area: 1/2 / 2/5;
+}
+
+#main {
+    grid-area: 2/2 / 6/4;
+}
+
+#news {
+    grid-area: 2/4 / 6/5;
+}
