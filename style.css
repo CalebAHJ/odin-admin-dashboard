@@ -68,6 +68,8 @@ li {
     grid-area: 2/4 / 6/5;
 
     background-color: rgb(226, 226, 226);
+    padding: 12px;
+    padding-bottom: 24px;
 }
 
 #news div {
