@@ -76,6 +76,10 @@ li {
     background-color: white;
 }
 
+#news > h3 {
+    margin-bottom: 38px;
+}
+
 ul {
     list-style: none;
 }
