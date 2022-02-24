@@ -37,10 +37,14 @@ li {
 
 #main {
     grid-area: 2/2 / 6/4;
+
+    background-color: rgb(226, 226, 226);
 }
 
 #news {
     grid-area: 2/4 / 6/5;
+
+    background-color: rgb(226, 226, 226);
 }
 
 ul {
