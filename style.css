@@ -74,6 +74,7 @@ li {
 
 #news div {
     background-color: white;
+    border-radius: .5rem;
 }
 
 #news > h3 {
