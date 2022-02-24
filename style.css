@@ -70,6 +70,10 @@ li {
     background-color: rgb(226, 226, 226);
 }
 
+#news div {
+    background-color: white;
+}
+
 ul {
     list-style: none;
 }
