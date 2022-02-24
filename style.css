@@ -60,7 +60,8 @@ li {
     min-width: clamp(12rem, 15rem, 18rem);
     background-color: white;
     border-radius: 1rem;
-    border: 0 0 0 2px rgb(0, 255, 0);
+    border-left: 16px solid rgb(0, 204, 0);
+    padding: 0 2px 0 4px;
 }
 
 #news {
