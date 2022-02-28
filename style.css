@@ -11,7 +11,7 @@ body {
     grid-template-rows: .5fr repeat(4, 1fr);
 }
 
-
+/* Sidebar Styling */
 
 #sidebar {
     grid-area: 1/1 / 6/2;
@@ -33,6 +33,8 @@ li {
     margin-bottom: 2rem;
 }
 
+/* Header Styling */
+
 #header {
     grid-area: 1/2 / 2/5;
 
@@ -49,6 +51,8 @@ li {
     border-radius: 2rem;
     color: white;
 }
+
+/* Main Content Styling */
 
 #main {
     grid-area: 2/2 / 6/4;
@@ -75,6 +79,8 @@ li {
     border-left: 16px solid rgb(0, 204, 0);
     padding: 0 2px 0 4px;
 }
+
+/* News Section Styling */
 
 #news {
     grid-area: 2/4 / 6/5;
