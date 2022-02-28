@@ -25,14 +25,6 @@ h2 {
     margin-bottom: 3rem;
 }
 
-ul + ul {
-    margin-top: 5rem;
-}
-
-li {
-    margin-bottom: 2rem;
-}
-
 /* Header Styling */
 
 #header {
