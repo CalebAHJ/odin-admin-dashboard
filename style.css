@@ -72,13 +72,18 @@ li {
     padding-bottom: 24px;
 }
 
-#news div {
+#news > div {
     background-color: white;
     border-radius: .5rem;
 }
 
 #news > h3 {
     margin-bottom: 38px;
+}
+
+.border {
+    background-color: black;
+    height: 1px;
 }
 
 ul {
