@@ -19,10 +19,9 @@ body {
     background-color: rgb(88, 168, 233);
     color: white;
     padding: 0 1rem 2rem 2rem;
-}
 
-h2 {
-    margin-bottom: 3rem;
+    display: grid;
+    grid-template-rows: repeat(12, 1fr);
 }
 
 /* Header Styling */
