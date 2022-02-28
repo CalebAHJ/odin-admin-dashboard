@@ -33,8 +33,22 @@ body {
     margin-bottom: 2px;
 
     display: grid;
+    grid-template-rows: 1fr 1fr;
     gap: 8px;
 }
+
+#header-one {
+    display: grid;
+    grid-template-columns: 1fr 10fr repeat(3, 1fr) 3fr;
+    gap: 8px;
+}
+
+#header-two {
+    display: grid;
+    grid-template-columns: 1fr 3fr 2fr repeat(3, 1.5fr);
+    gap: 8px;
+}
+
 
 .btn {
     background-color: rgb(88, 168, 233);
