@@ -72,9 +72,10 @@ li {
     padding-bottom: 24px;
 }
 
-#news > div {
+.news-container {
     background-color: white;
     border-radius: .5rem;
+    padding: 12px;
 }
 
 #news > h3 {
