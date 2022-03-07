@@ -129,3 +129,9 @@ body {
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
+
+/* miscellaneous */
+
+.profile {
+    border-radius: 100%;
+}
