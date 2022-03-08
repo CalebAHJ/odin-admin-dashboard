@@ -33,11 +33,15 @@ body {
 }
 
 #dashboard-icon {
-    margin-top: 20px;
+    margin-top: 18px;
 }
 
 #sidebar div {
     margin-top: .2rem;
+}
+
+#sidebar img {
+    height: 2rem;
 }
 
 /* Header Styling */
