@@ -71,6 +71,8 @@ body {
     border-color: rgb(88, 168, 233);
     border-radius: 2rem;
     color: white;
+    font-size: 1.2rem;
+    font-weight: 500;
 }
 
 /* Main Content Styling */
