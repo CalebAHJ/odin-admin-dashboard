@@ -86,9 +86,10 @@ body {
 }
 
 #searchbar {
-    background-color: grey;
+    background-color: rgb(207, 207, 207);
     height: 1.8rem;
     border-radius: 16px;
+    border: 1px solid rgb(207, 207, 207);
 }
 
 #bell {
