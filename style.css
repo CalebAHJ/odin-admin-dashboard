@@ -87,6 +87,15 @@ body {
     border-radius: 8px;
 }
 
+#bell {
+    margin-top: 6px;
+}
+
+#name {
+    margin-left: 10px;
+    margin-top: 6px;
+}
+
 /* Main Content Styling */
 
 #main {
