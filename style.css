@@ -77,6 +77,16 @@ body {
     font-weight: 500;
 }
 
+#search {
+    margin-top: 6px;
+}
+
+#searchbar {
+    background-color: grey;
+    height: 1.8rem;
+    border-radius: 8px;
+}
+
 /* Main Content Styling */
 
 #main {
