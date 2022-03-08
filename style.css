@@ -51,6 +51,8 @@ body {
     display: grid;
     grid-template-rows: 1fr 1fr;
     gap: 8px;
+
+    padding: .5rem;
 }
 
 #header-one {
